@@ -5,3 +5,10 @@ prueba 2
 prueba 3
 
 asd
+
+git clone url
+git pull
+git add .
+git status
+git commit -m "mensaje"
+git push origin master
